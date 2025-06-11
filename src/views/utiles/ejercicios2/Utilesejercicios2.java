@@ -72,7 +72,7 @@ public class Utilesejercicios2 {
                     System.out.println("Serie generada: ");
                     System.out.println(Ejercicios2.serie);
                     System.out.println("Resultado de la serie: " + resultado);
-
+                case 5:
                     // EJERCICIO 5
                     int RiegoTotal = Ejercicios2.riego();
                     System.out.println("El tiempo total de riego en el dia es: " + RiegoTotal + " horas");
