@@ -72,6 +72,7 @@ public class Utilesejercicios2 {
                     System.out.println("Serie generada: ");
                     System.out.println(Ejercicios2.serie);
                     System.out.println("Resultado de la serie: " + resultado);
+                    break;
                 case 5:
                     // EJERCICIO 5
                     int RiegoTotal = Ejercicios2.riego();
