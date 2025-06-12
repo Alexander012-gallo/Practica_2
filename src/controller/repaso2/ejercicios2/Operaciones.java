@@ -82,7 +82,7 @@ public class Operaciones {
             }
             System.out.println(smg);
             if (i % 2 == 0) {
-                System.out.println("Es un gran día para aprender Teoría de la Prograación");
+                System.out.println("Es un gran día para aprender Teoría de la Programación");
             }
         }
         return smg;
